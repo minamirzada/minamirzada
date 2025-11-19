@@ -58,15 +58,5 @@ Linux, Mac, Windows
 - Provided on-site technical support  
 - Diagnosed hardware/Software of PC, Printer, Projector
 
-
----
-
-## 🎓 Education
-
-**DePaul University, Chicago, IL**  
-**B.S. in Computer Science | Minor in Data Science**  
-*Expected Graduation: June 2026*  
-- **GPA:** 3.7  
-- **Dean’s List:** 7 Quarters  
 ---
 

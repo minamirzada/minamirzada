@@ -71,7 +71,7 @@ Linux, Mac, Windows
 ---
 
 ## 📍 Contact
-**Location:** Chicago, IL  
+**Location:** Great Chicago, IL  
 **Phone:** 872-806-4993  
 **Email:** mina.mirzada1@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/mina-mirzada/
